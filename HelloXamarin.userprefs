@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{011EA0BC-462D-4664-8CF4-46EDC2253955}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloXamarin/HelloXamarinPage.xaml">
+    <Files>
+      <File FileName="HelloXamarin/HelloXamarinPage.xaml" Line="6" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HelloXamarin.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.339A82D0-3A21-4B59-A1FC-7BBF9AC7CCA8" automaticSigning="False">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.HelloXamarin.iOS>
+</Properties>
